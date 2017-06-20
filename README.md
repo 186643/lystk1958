@@ -2,7 +2,7 @@
 Ticket issued: admin/127.0.0.1.2017-04-22.14-08-09.1b9ecb96-47b1-4686-bf4f-eef99ac7e15e
 hostserver: https:// "www.g.alicdn.com" id:"i-23capnuez"
 lystk1958.com.cn has SOA record vip1.alidns.com.hostmaster.hichina.com.2016101620 3600 1200 3600 360
-server: http://"www.lystk1958.com.cn" ip :"121.196.206.34"
+server: http://"www.lystk1958.com.cn" ip :"116.62.167.68"
 EDNS:version:0 flage:qr rd ra: udp:4096
 Additional section        
 vip1.alidns.com     157    IN    A      180.97.161.227
