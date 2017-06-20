@@ -1,5 +1,5 @@
 # lystk1958
-Ticket issued: admin/127.0.0.1.2017-04-22.14-08-09.1b9ecb96-47b1-4686-bf4f-eef99ac7e15e
+Ticket issued: admin/100.100.2.136 - - [27/Apr/2016:11:21:09 +0800] "GET /info.php?=PHPE9568F34-D428-11d2-A769-00AA001ACF42 HTTP/1.1" 200 2536 "http://116.62.167.68/info.php" "Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.87 Safari/537.36"
 hostserver: https:// "www.g.alicdn.com" id:"i-23capnuez"
 lystk1958.com.cn has SOA record vip1.alidns.com.hostmaster.hichina.com.2016101620 3600 1200 3600 360
 server: http://"www.lystk1958.com.cn" ip :"116.62.167.68"
